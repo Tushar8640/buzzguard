@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BuzzGuard</string>
+    <string name="listener_service_name">BuzzGuard Notification Rules</string>
+</resources>

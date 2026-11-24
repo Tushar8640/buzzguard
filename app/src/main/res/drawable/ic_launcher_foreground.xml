@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Warm cream minimalist bell silhouette -->
+    <path
+        android:fillColor="#FAF8F3"
+        android:pathData="M54,30c-9.2,0 -16.6,7.4 -16.6,16.6v11.8l-4.4,5.1v2.9h42v-2.9l-4.4,-5.1V46.6C70.6,37.4 63.2,30 54,30z" />
+    <!-- Subtle inner cutout bar suggesting controlled / filtered chime -->
+    <path
+        android:fillColor="#1B5E48"
+        android:pathData="M45,51h18v3.6h-18z" />
+    <!-- Warm terracotta bell clapper -->
+    <path
+        android:fillColor="#E3653C"
+        android:pathData="M48.5,69.2c0,3 2.5,5.5 5.5,5.5s5.5,-2.5 5.5,-5.5H48.5z" />
+    <!-- Top finial ring -->
+    <path
+        android:fillColor="#FAF8F3"
+        android:pathData="M51.5,26.5a2.5,2.5 0 1,1 5,0v4h-5v-4z" />
+</vector>
